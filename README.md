@@ -5,6 +5,9 @@ BhashaSense is an AI-powered MERN-stack platform designed to solve information o
 ##  Project Overview
 Unlike standard news aggregators, BhashaSense uses a "Digital Context" (User Occupation, Location, and Career Goals) to filter and summarize news. If you are a B.Tech student, the "Guru" (AI) will highlight technical and academic implications of global events.
 
+## Demo video link
+<video src="https://github.com/user-attachments/assets/1907418d-bd1e-42ce-a5c1-4400ee0668e4" width="100%" controls></video>
+
 ##  Tech Stack
 - Frontend: React.js, Tailwind CSS, Vite
 - Backend: Node.js, Express.js
